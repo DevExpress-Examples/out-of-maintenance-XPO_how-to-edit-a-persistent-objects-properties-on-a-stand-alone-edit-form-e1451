@@ -9,6 +9,9 @@
 * [EditForm.aspx.cs](./CS/WebSite/EditForm.aspx.cs) (VB: [EditForm.aspx.vb](./VB/WebSite/EditForm.aspx.vb))
 <!-- default file list end -->
 # How to edit a persistent object's properties on a stand-alone edit form
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e1451/)**
+<!-- run online end -->
 
 
 <p>This example uses a standard FormView class to edit a single object. The FormView is bound to XpoDataSource. The data filter is configured to load a single object by its key (Oid).</p><p><strong>See Also:</strong><br />
