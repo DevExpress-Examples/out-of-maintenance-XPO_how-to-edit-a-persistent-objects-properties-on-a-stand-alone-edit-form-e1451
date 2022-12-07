@@ -9,7 +9,7 @@ Imports System.Web.UI.WebControls
 Imports System.Web.UI.WebControls.WebParts
 Imports System.Web.UI.HtmlControls
 Imports DevExpress.Xpo
-Imports DevExpress.Web.ASPxEditors
+Imports DevExpress.Web
 
 Partial Public Class _Default
 	Inherits System.Web.UI.Page

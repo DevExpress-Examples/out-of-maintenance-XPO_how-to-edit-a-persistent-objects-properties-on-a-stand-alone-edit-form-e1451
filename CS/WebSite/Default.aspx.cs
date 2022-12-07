@@ -8,7 +8,7 @@ using System.Web.UI.WebControls;
 using System.Web.UI.WebControls.WebParts;
 using System.Web.UI.HtmlControls;
 using DevExpress.Xpo;
-using DevExpress.Web.ASPxEditors;
+using DevExpress.Web;
 
 public partial class _Default : System.Web.UI.Page 
 {
